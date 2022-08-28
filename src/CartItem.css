@@ -1,0 +1,11 @@
+.CartItem-subtotal{
+    color: red;
+}
+
+.CartItem-item-name{
+    margin-left: 10px;
+}
+
+.CartItem {
+    border-bottom: 2px solid green;
+}
